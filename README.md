@@ -1,5 +1,7 @@
 # python-portfolio-projects
-Building Python Skills One Project at a Time
+Building Python Skills One Project at a Time.
+
+
 This repository contains Python projects built as part of an intensive, project-based Python bootcamp.
 The focus is on developing real-world Python applications and strengthening core development skills.
 ## 📁 Project Structure
