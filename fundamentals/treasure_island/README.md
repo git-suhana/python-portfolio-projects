@@ -1,1 +1,2 @@
-
+A text-based adventure game built in Python where the player navigates through choices to find a hidden treasure. This project focuses on Python fundamentals, control flow, and interactive programming.
+In this game, the player is presented with a series of decisions at different stages of the story. The goal is to make the right choices to reach the treasure without encountering game-ending obstacles.
