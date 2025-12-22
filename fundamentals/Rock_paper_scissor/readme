@@ -1,1 +1,1 @@
-
+This is a simple Rock, Paper, Scissors game built using Python. The player chooses between rock, paper, or scissors, and the computer randomly selects its move. The program then compares both choices and displays the result (win, lose, or tie)
